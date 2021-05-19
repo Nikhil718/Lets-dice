@@ -1,5 +1,5 @@
 # First-js-game
-This is my first javascript game
+ javascript game
 GAME RULES:
 
 - The game has 2 players, playing in rounds
